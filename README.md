@@ -1,5 +1,6 @@
-<h1 align="center" style="border-bottom: none;">📦🚀 semantic-release</h1>
+<h1 align="center" style="border-bottom: none;">📦🚀 semantic-release-nx</h1>
 <h3 align="center">Fully automated version management and package publishing</h3>
+<h3 align="center">This is a fork of the semantic-release that extends with commit filtering</h3>
 <p align="center">
   <a href="https://github.com/semantic-release/semantic-release/discussions">
     <img alt="Join the community on GitHub Discussions" src="https://img.shields.io/badge/Join%20the%20community-on%20GitHub%20Discussions-blue">
